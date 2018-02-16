@@ -10,6 +10,10 @@ public class TestClass1 {
 		Greeter[] tim = new Greeter[5];
 		for (int i = 0; i < tim.length; i++) {
 			System.out.println(tim[i].toString());
+			
+			// version 3
+			
+			System.out.println("nigger");
 		}
 	}
 
